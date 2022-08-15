@@ -40,6 +40,7 @@ J'ai essayé d’exploiter tous ce que nous avons faits en cours:
 
 *2 – Diagramme de cas d utilisations*
 
+
 ![image](https://user-images.githubusercontent.com/42771693/184665581-1680f0d8-674c-4b1a-816c-6be08edccbd3.png)
 
 
@@ -92,25 +93,36 @@ Les outils (Application | Framework | Lib) utilisés pour développer l’applic
 
 ![image](https://user-images.githubusercontent.com/42771693/184667869-8af46c5b-e4dd-4351-9f23-ae02d404b4df.png)
 
+
 ![image](https://user-images.githubusercontent.com/42771693/184667914-d7ae2fdb-c906-4bd6-8c0a-fbaf9b1503e5.png)
+
 
 ![image](https://user-images.githubusercontent.com/42771693/184667938-82b9f761-ad7b-45f8-82a3-b6dbe700ee79.png)
 
+
 ![image](https://user-images.githubusercontent.com/42771693/184667958-12443eeb-4e2b-4c93-9869-f8c06fa2ea1e.png)
+
 
 ![image](https://user-images.githubusercontent.com/42771693/184667979-4ef488aa-0658-48f3-b13b-fa7e2a179305.png)
 
+
 ![image](https://user-images.githubusercontent.com/42771693/184667996-14d76d54-4207-4036-b3ce-117b8b62f660.png)
+
 
 ![image](https://user-images.githubusercontent.com/42771693/184668014-635118f4-30e8-489e-9c67-c13aa61a2f96.png)
 
+
 ![image](https://user-images.githubusercontent.com/42771693/184668027-d4a3394c-12bb-43c7-91bc-d9a23a994328.png)
+
 
 ![image](https://user-images.githubusercontent.com/42771693/184668062-c64ae37f-f0a2-42bd-b3d3-5c29e96c31cc.png)
 
+
 ![image](https://user-images.githubusercontent.com/42771693/184668071-61dbb879-03b4-49f1-9b31-68bd57088694.png)
 
+
 ![image](https://user-images.githubusercontent.com/42771693/184668085-22b8f5b5-ba41-4ccb-b7f8-f6e36547a9f8.png)
+
 
 **IV. Conclusion**
 
