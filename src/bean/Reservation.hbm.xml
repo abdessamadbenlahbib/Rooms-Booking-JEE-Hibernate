@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+<class name="bean.Reservation" table="RESERVATION" >
+
+	<id name="idReservation" column="ID_RESERVATION"  >
+		<generator class="native"></generator>
+	</id>
+	
+	<property name="user" column="USER" ></property>
+	<property name="numroom" column="NUM_ROOM"></property>
+	<property name="fullname" column="FULLNAME"></property>
+	<property name="phone" column="PHONE"></property>
+	<property name="street" column="STREET"></property>
+	<property name="city" column="CITY"></property>
+	<property name="country" column="COUNTRY"></property>
+	<property name="nationality" column="NATIONALITY"></property>
+	<property name="reservationdate" column="RESERVATION_DATE"></property>
+	<property name="reservationstart" column="RESERVATION_START"></property>
+	<property name="reservationend" column="RESERVATION_END"></property>
+	<property name="reservationperiod" column="RESERVATION_PERIOD"></property>
+	<property name="prix" column="PRIX"></property>
+	<property name="numberperson" column="NUMBER_PERSON"></property>
+	
+
+</class>
+ 
+  
+</hibernate-mapping>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+<class name="bean.Chambre" table="CHAMBRE" >
+
+	<id name="idChambre" column="ID_CHAMBRE"  >
+		<generator class="native"></generator>
+	</id>
+	
+	<property name="numRoom" column="NUM_ROOM" ></property>
+	<property name="photo" column="PHOTO"></property>
+	<property name="numEtage" column="NUM_ETAGE"></property>
+	<property name="nbrPers" column="NBR_PERS"></property>
+	<property name="prix" column="PRIX"></property>
+	<property name="desc" column="DESC"></property>
+	
+	
+</class>
+ 
+  
+</hibernate-mapping>

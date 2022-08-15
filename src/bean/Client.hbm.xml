@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+<class name="bean.Client" table="CLIENT" >
+
+	<id name="idClient" column="ID_CLIENT"  >
+		<generator class="native"></generator>
+	</id>
+	
+	<property name="user" column="USER" ></property>
+	<property name="password" column="PASSWORD"></property>
+	<property name="nom" column="NOM"></property>
+	<property name="prenom" column="PRENOM"></property>
+	<property name="age" column="AGE"></property>
+	<property name="tel" column="TEL"></property>
+	<property name="adresse" column="ADRESSE"></property>
+	<property name="nationalite" column="NATIONALITE"></property>
+	
+	
+</class>
+ 
+  
+</hibernate-mapping>
